@@ -6,7 +6,7 @@
     <img src="imgs/people3.PNG" width="200" />
 </p>
 
-## Credit for the code RootKit
+## Credit for the AIMBOT code RootKit
 This advanced targeting system, initially developed as an aimbot, has been re-engineered to lock onto human targets. Utilizing a Python script to control motors and relays, it is highly effective for both ground and air targets, outperforming even the US C-RAM system. While it is primarily intended for educational purposes, if any country is interested in setting it up, I am available to do so at a reasonable cost.
 
 ***LOL***
